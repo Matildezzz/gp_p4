@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Variator';
+    src: url('VariatorOne.woff2') format('woff2'),
+        url('VariatorOne.woff') format('woff'),
+        url('VariatorOne.ttf') format('truetype'),
+        url('VariatorOne.svg#VariatorOne') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
